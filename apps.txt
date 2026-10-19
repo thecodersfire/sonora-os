@@ -3,3 +3,8 @@ org.audacityteam.Audacity
 org.mixxx.Mixxx
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.ardour.Ardour
+com.obsproject.Studio
+org.videolan.VLC

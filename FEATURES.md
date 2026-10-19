@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/sonora-os-workspace features/sonora-os-plan features/sonora-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for music production:
+
+1. **Ardour** — org.ardour.Ardour
+2. **OBS Studio** — com.obsproject.Studio
+3. **VLC** — org.videolan.VLC
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
