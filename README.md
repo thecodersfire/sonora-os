@@ -25,8 +25,4 @@ The `sonora.svg` wallpaper is original. Sonora OS is an independent Ubuntu custo
 See [FEATURES.md](FEATURES.md) for three local tools included for music production.
 
 
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Ardour, OBS Studio, VLC**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
